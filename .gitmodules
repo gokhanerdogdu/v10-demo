@@ -1,0 +1,4 @@
+[submodule "Pravithavarghese1/purchase_amount_to_text"]
+	path = Pravithavarghese1/purchase_amount_to_text
+	url = git@github.com:Pravithavarghese1/purchase_amount_to_text.git
+	branch = v10.0
