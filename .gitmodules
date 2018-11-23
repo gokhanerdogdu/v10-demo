@@ -7,3 +7,8 @@
 	path = ledilem/Odoo
 	url = git@github.com:ledilem/Odoo.git
 	branch = 10.0
+
+[submodule "mechsoftdigital/social"]
+	path = mechsoftdigital/social
+	url = git@github.com:mechsoftdigital/social.git
+	branch = 10.0
