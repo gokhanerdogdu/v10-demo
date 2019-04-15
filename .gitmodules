@@ -12,3 +12,8 @@
 	path = mechsoftdigital/social
 	url = git@github.com:mechsoftdigital/social.git
 	branch = 10.0
+
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = git@github.com:OCA/contract.git
+	branch = 10.0
